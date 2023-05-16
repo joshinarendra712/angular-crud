@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {
+      "userId": 0,
+      "title": "Narendra Joshi",
+      "body": "Developper",
+      "id": 1
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
